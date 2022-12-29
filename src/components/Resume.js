@@ -26,9 +26,9 @@ function Resume() {
         <hr />
         <ul>
             <li>HTML, CSS, JavaScript</li>
-            <li>OpenAPI, YAML, JSON</li>
-            <li>React, Next.js, Hugo</li>
-            <li>Markdown</li>
+            <li>API Calls, Mongo DB, JSON</li>
+            <li>React, Express, Node, jQuery, SQL, NoSQL</li>
+            <li>Bulma, Handlebars, Bootstrap</li>
             <li>Git</li>
             <li>Github Repo Management</li>
         </ul>
